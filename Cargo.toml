@@ -8,3 +8,5 @@ edition = "2021"
 [[bin]]
 name = "generate_ast"
 path = "tools/generate_ast.rs"
+name = "generate_parser"
+path = "tools/generate_parser.rs"
